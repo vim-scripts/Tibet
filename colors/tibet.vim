@@ -27,7 +27,7 @@ hi VertSplit	guibg=darkgreen guifg=white gui=none
 hi Folded	guibg=darkred guifg=gold 
 hi FoldColumn	guibg=grey30 guifg=tan
 hi IncSearch	guifg=slategrey guibg=khaki
-"hi LineNr				
+hi LineNr		guifg=yellow guibg=darkred
 hi ModeMsg	guifg=goldenrod
 hi MoreMsg	guifg=SeaGreen
 hi NonText	guifg=LightBlue guibg=darkred
